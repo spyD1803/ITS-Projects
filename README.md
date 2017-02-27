@@ -10,5 +10,5 @@ Group No. | Project Name | Github Repository
 5.           |              |                   
 6.           |*Approprate*  |[Approprate Github Repository](https://github.com/sachinkumar123/approprate)
 7.           |              |                   
-8.           |              |                   
+8.           |*Critique*    |[Critique Github Repository](https://github.com/chrizandr/ITS_feedback)                   
 9.           |              |
