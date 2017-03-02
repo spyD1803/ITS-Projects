@@ -7,7 +7,7 @@ Group No. | Project Name | Github Repository
 2.           |              |                   
 3.           |              |                   
 4.           |              |                   
-5.           |              |                   
+5.           |*Smartergy*   |[Smartergy Github Repository](https://github.com/ambujtiwari17/smartergy_ITS)                   
 6.           |*Approprate*  |[Approprate Github Repository](https://github.com/sachinkumar123/approprate)
 7.           |*Public Grivience*|[PGAS Github Repository](https://github.com/SUNILSWARNA-IS201401044/Pyhtonanywhere)                 
 8.           |*Critique*    |[Critique Github Repository](https://github.com/chrizandr/ITS_feedback)                   
