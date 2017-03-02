@@ -5,7 +5,7 @@ Group No. | Project Name | Github Repository
 -------------|:--------------:|:------------------:
 1.           |Air & Water Quality|[Github repository](https://github.com/Jagadeesh-Ponduru/its)           
 2.           |                   |                   
-3.           |                   |                   
+3.           |Weather monitoring |[Github repository](https://github.com/spyD1803/its)                   
 4.           |                   |                   
 5.           |*Smartergy*        |[Smartergy Github Repository](https://github.com/ambujtiwari17/smartergy_ITS)                   
 6.           |*Approprate*       |[Approprate Github Repository](https://github.com/sachinkumar123/approprate)
